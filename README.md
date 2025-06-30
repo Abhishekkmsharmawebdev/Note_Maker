@@ -29,7 +29,7 @@ https://nottmaker.netlify.app/
 
 | Create Notes           | View & Edit Notes        |
 |------------------------|-------------------------|
-| ![Create](first (1).png) | ![Edit](second.png) |
+| ![Create](first.png) | ![Edit](second.png) |
 
 ---
 
